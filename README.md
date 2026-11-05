@@ -16,9 +16,9 @@ Pour une saison donnée, avec $M$ l'ensemble des matchs joués :
 
 
 $$
-\text{Attaque}_i = \frac{\sum \text{marqués}_i^{dom} + \sum \text{marqués}_i^{ext}}{n_i^{dom} + n_i^{ext}}
-,\ 
-\text{Défense}_i = \frac{\sum \text{encaissés}_i^{dom} + \sum \text{encaissés}_i^{ext}}{n_i^{dom} + n_i^{ext}}
+\text{Attaque}_i = \frac{\sum \text{marques}_i^{dom} + \sum \text{marques}_i^{ext}}{n_i^{dom} + n_i^{ext}}
+\qquad
+\text{Defense}_i = \frac{\sum \text{encaisses}_i^{dom} + \sum \text{encaisses}_i^{ext}}{n_i^{dom} + n_i^{ext}}
 $$
 
 
