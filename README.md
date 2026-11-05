@@ -64,7 +64,7 @@ Tri décroissant → `Expected_Rank`, exporté dans `expected_rank_j8.csv`.
 * `labo25_26.ipynb` — backtest de la méthode sur N-1
 * `matchs_N-1.csv`, `matchs_N-2.csv` — historiques
 
-## Résultat 
+## Résultat (date du 05/11/26)
 | Equipe           |   Expected_Points |   Expected_Rank |
 |:-----------------|------------------:|----------------:|
 | Oyonnax          |             93.91 |               1 |
