@@ -14,13 +14,13 @@ Match joué → points de classement Pro D2 :
 
 Pour une saison donnée, avec $M$ l'ensemble des matchs joués :
 
-$$
 
+$$
 \text{Attaque}_i = \frac{\sum \text{marqués}_i^{dom} + \sum \text{marqués}_i^{ext}}{n_i^{dom} + n_i^{ext}}
 ,\ 
 \text{Défense}_i = \frac{\sum \text{encaissés}_i^{dom} + \sum \text{encaissés}_i^{ext}}{n_i^{dom} + n_i^{ext}}
-
 $$
+
 
 ## Pondération inter-saisons
 
