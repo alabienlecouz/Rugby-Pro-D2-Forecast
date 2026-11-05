@@ -64,3 +64,22 @@ Tri décroissant → `Expected_Rank`, exporté dans `expected_rank_j8.csv`.
 * `labo25_26.ipynb` — backtest de la méthode sur N-1
 * `matchs_N-1.csv`, `matchs_N-2.csv` — historiques
 
+## Résultat 
+| Equipe           |   Expected_Points |   Expected_Rank |
+|:-----------------|------------------:|----------------:|
+| Oyonnax          |             93.91 |               1 |
+| Provence         |             89.89 |               2 |
+| Brive            |             74.79 |               3 |
+| Grenoble         |             74.31 |               4 |
+| Colomiers        |             70.75 |               5 |
+| Valence-Romans   |             61.89 |               6 |
+| Agen             |             58.71 |               7 |
+| Soyaux Angouleme |             55.47 |               8 |
+| Montauban        |             54.38 |               9 |
+| Biarritz         |             50.79 |              10 |
+| Aurillac         |             49.9  |              11 |
+| Dax              |             46.91 |              12 |
+| Nissa Rugby      |             43.78 |              13 |
+| Narbonne         |             38.17 |              14 |
+| Beziers          |             23.26 |              15 |
+| Nevers           |             12.52 |              16 |
